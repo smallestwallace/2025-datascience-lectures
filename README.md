@@ -1,7 +1,7 @@
 # Introduction to Data Science – Lecture Material
 Course website: [http://datasciencecourse.net](http://datasciencecourse.net)
 
-This repository (will) contain(s) the material used in the lectures. You can manually download the files for each lecture, but we recommend that you use git to clone and update this repository.
+This repository will contain(s) the material used in the lectures. You can manually download the files for each lecture, but we recommend that you use git to clone and update this repository.
 
 You can use [GitHub Desktop](https://desktop.github.com/) to update this repository as new lectures are published, or you can use the following commands (recommended):
 
